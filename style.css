@@ -1,0 +1,28 @@
+body{
+    background-image: url(uni.jpg);
+    background-size: cover;
+}
+h2{
+    color: aliceblue;
+    
+}
+h2:hover{
+    text-shadow: -1px 0 aqua, 0 1px aqua, 1px 0 aqua, 0 -1px aqua;
+    font-weight: 550;
+}
+.list{
+    color: aliceblue;
+    
+}
+.list:hover{
+    text-shadow: -1px 0 aqua, 0 1px aqua, 1px 0 aqua, 0 -1px aqua;
+    font-weight: 550;
+}
+
+.btn{
+    border-color: aqua;
+}
+.btn:hover{
+    text-shadow: -1px 0 aqua, 0 1px aqua, 1px 0 aqua, 0 -1px aqua;
+    font-weight: 550;
+}
